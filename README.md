@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samzero
 - 👀 I’m interested in solve real industrial problems (logistic and supply chain, production, purchase, automation, management control,  etc..) developing custom softwares and solutions.
-- 🌱 I’m currently learning Python for Data Science and Machine Learning Models (in particular regression problems for forecasts), sometimes Java, sometimes VBA, sometimes R.
+- 🌱 I’m currently learning Python for Data Science and Machine Learning Models (in particular regression problems for forecasts), a bit of Java, a bit of VBA, sometimes R.
 - 💞️ I’m looking to collaborate on small but very focused projects!
 - 📫 How to reach me msmpub 😜 gmail 😉 com
 
