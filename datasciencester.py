@@ -23,3 +23,4 @@ friendship = {user["id"]: [] for user in users}
 for i, j in friendship_pairs:
     friendship[i].append(j)
     friendship[j].append(i)
+print(friendship)
